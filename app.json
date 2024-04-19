@@ -23,8 +23,15 @@
     "STICKER": {
       "description": "set your bot sticker package name ex:- Ayush"
     },
-          
-        
+     "id": {
+      "description": "Put your session id here"
+    },     
+     "PM_BLOCKER": {
+      "description": "type True for enable Pm blocker"
+    },
+     "WELCOME": {
+      "description": "Type True for enable welcome message"
+    }     
   },
     "buildpacks": [
       {
