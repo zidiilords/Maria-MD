@@ -3,18 +3,18 @@ const chalk = require('chalk')
 
 
 //contact details
-global.ownernumber = ['919931122319']
-global.ownername = "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰"//owner name
+global.ownernumber = process.env.OWNER_NUMBER || "_M_A_R_I_A_VEdGdFltUmhSVzFpY21GalpRbz0=",
+global.ownername = process.env.OWNER_NAME || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",//owner name
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
 global.location = "Indian"
 
-global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
+global.botname = process.env.BOTNAME || "𝐌𝐀𝐑𝐈𝐀-𝐌𝐃",//name of the bot
 
 //sticker details
-global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
+global.stickername = process.env.STICKER || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
 global.packname = 'Sticker By'
-global.author = 'Maria Bot'
+global.author = process.env.AUTHOR || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
 //console view/theme
 global.themeemoji = '🧩'
 global.wm = "Ayush botz inc."
@@ -23,10 +23,10 @@ global.wm = "Ayush botz inc."
 global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
 
 //custom prefix
-global.prefa = ['#']
+global.prefa = process.en.PREFIX 
 
 //false=disable and true=enable
-global.welcome = false //auto welcome
+global.welcome = process.env.WELCOME || "false", //auto welcome
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
@@ -51,8 +51,8 @@ global.mess = {
 }
 
 module.exports = {
-sessionId: process.env.id || "_M_A_R_I_A_VEdGdFltUmhSVzFpY21GalpRbz0=",
-AUTO_BLOCK : "true",
+sessionId: process.env.id
+AUTO_BLOCK : process.env.PM_BLOCKER 
 STATUS_SAVER : "true",
 ANTI_BOT:"true",
 }
