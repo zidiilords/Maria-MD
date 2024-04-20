@@ -51,8 +51,8 @@ global.mess = {
 }
 
 module.exports = {
-sessionId: process.env.id
-AUTO_BLOCK : process.env.PM_BLOCKER 
+sessionId: process.env.id,
+AUTO_BLOCK : process.env.PM_BLOCKER,
 STATUS_SAVER : "true",
 ANTI_BOT:"true",
 }
