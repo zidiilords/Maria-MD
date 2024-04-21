@@ -18,7 +18,7 @@
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^10.0.1",
-        "@queenanya/baileys": "6.7.5",
+        "@queenanya/baileys": "latest",
         "@queenanya/invite": "latest",
         "@whiskeysockets/baileys": "latest",
         "api-dylux": "^1.7.2",
