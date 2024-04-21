@@ -1,6 +1,6 @@
-const fs = require('fs')
-const chalk = require('chalk')
-
+const fs = require('fs');
+const chalk = require('chalk');
+require('dotenv').config();
 
 //contact details
 global.ownernumber = process.env.OWNER_NUMBER || "_M_A_R_I_A_VEdGdFltUmhSVzFpY21GalpRbz0=",
@@ -23,7 +23,7 @@ global.wm = "Ayush botz inc."
 global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
 
 //custom prefix
-global.prefa = process.en.PREFIX 
+global.prefa = process.env.PREFIX,
 
 //false=disable and true=enable
 global.welcome = process.env.WELCOME || "false", //auto welcome

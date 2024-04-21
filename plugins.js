@@ -19,9 +19,9 @@ const Pino = require("pino")
 const readline = require("readline")
 const { parsePhoneNumber } = require("libphonenumber-js")
 const makeWASocket = require("@whiskeysockets/baileys").default
-const sessionFolderPath = path.join(__dirname, '/session');
-const sessionPath = path.join(sessionFolderPath, '/creds.json'); 
-// console.log(Config.sessionId);
+var sessionFolderPath = path.join(__dirname, '/session');
+var sessionPath = path.join(sessionFolderPath, '/creds.json'); 
+console.log(Config.sessionId);
 Dec_Sess();
 
 const store = makeInMemoryStore({

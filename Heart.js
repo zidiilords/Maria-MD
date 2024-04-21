@@ -35,7 +35,7 @@ const { fetchBuffer, buffergif } = require("./Gallery/lib/myfunc2")
  global.modnumber = '919060791616' 
 //Gallery/database
 let ntilinkall =JSON.parse(fs.readFileSync('./Gallery/database/antilink.json'));
-let autoblck =JSON.parse(fs.readFileSync('./Gallery/database/autoblock.json'));
+// let autoblck =JSON.parse(fs.readFileSync('./Gallery/database/autoblock.json'));
 const isnsfw = JSON.parse(fs.readFileSync('./Gallery/database/nsfw.json'));
 
 let _afk = JSON.parse(fs.readFileSync('./Gallery/database/afk-user.json'))
@@ -124,7 +124,7 @@ module.exports = Maria = async (Maria, m, msg, chatUpdate, store) => {
         const isGroupOwner = m.isGroup ? (groupOwner ? groupOwner : groupAdmins).includes(m.sender) : false
         const isCreator = [botNumber,...global.ownernumber].map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender)
       const AntiLinkAll = m.isGroup ? ntilinkall.includes(from) : false;
-      const AutoBlock = m.isGroup ? autoblck.includes(from) : true;
+   //   const AutoBlock = m.isGroup ? autoblck.includes(from) : true;
       const isNsfw = m.isGroup ? isnsfw.includes(from) : false;
       const AntiNsfw = m.isGroup ? isnsfw.includes(from) : false
  /////
@@ -389,7 +389,7 @@ const mariafeature = () =>{
             }
             break;
            
-  case 'autoblock': {
+ /* case 'autoblock': {
 if (!isCreator) return replay(mess.botowner)
 if (args[0] === "on") {
 if (AutoBlock) return reply('Already activated')
@@ -414,6 +414,7 @@ reply('Success in turning off all autoblock in this group')
   }
   }
   break;
+  */
   
    case 'antilink': {
                             if (!m.isGroup) return reply(mess.group)
