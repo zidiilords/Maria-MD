@@ -1537,7 +1537,7 @@ Maria.sendMessage(m.chat, { image: { url: "https://graph.org/file/c8ad7dc322c0b9
 
 
  case 'owner': {
-                Maria.sendContact(m.chat, global.ownernumber, m)
+                Maria.sendContact(m.chat, Config.ownernumber, m)
             }
             break;
             
