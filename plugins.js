@@ -1,5 +1,4 @@
 require('./Config')
-const Config = require("./Config")
 const pino = require('pino')
 const { Boom } = require('@hapi/boom')
 const fs = require('fs')
