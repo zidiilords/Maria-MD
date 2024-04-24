@@ -270,7 +270,8 @@ printRainbowMessage();
 
 //welcome
 Maria.ev.on('group-participants.update', async (anu) => {
-    	if (global.welcome){
+    	if (global.welcome == 'true') {
+
 console.log(anu)
 try {
 let metadata = await Maria.groupMetadata(anu.id)
