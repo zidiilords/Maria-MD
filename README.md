@@ -29,7 +29,7 @@
 
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/ayushpandeyy_023"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
 ## ```Bot Support Groups```
