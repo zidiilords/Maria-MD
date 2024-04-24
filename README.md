@@ -52,16 +52,36 @@
 
 
 <br></div>
-## DEPLOYMENT SECTION 
+## Maria Deployment  
 
-##🧣 Maria Deployment   
-✨ Follow this Tutorial
-<a href="https://youtu.be/OvNnpK1Gx6Y"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
-    </a>
-    
 <h2 align="left">  <a href="https://maria-pair-code.onrender.com"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
 </a>
 </h2>
+
+<details close>
+<summary>Click to choose your favourite platform to Deploy</summary>
+ 
+<br><br>   
+    
+<h4 align="center"> Deploy on Repl.it
+</h4>
+
+<p align="center" >
+    <a href="https://repl.it/github/FantoX/Atlas-MD">
+    <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
+    </a>
+    <br>     
+    <a href="https://youtu.be/R-_DU73UH8Q"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+    </a>
+</p>
+
+<p align="center" >
+    <br>
+    __________________________
+    <br>
+</p>   
+    
+
 
    
 
