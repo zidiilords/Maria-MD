@@ -29,7 +29,8 @@
 
 </p>
 
-
+<p align="center">
+  <a href="https://www.instagram.com/ayushpandeyy_023"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
 ## ```Bot Support Groups```
 <p align="center">
@@ -53,11 +54,7 @@
 
 <br></div>
 ## Maria Deployment  
-<details close>
-<summary>Click to choose your favourite platform to Deploy</summary>
- 
-<br><br>   
-    
+
 <h4 align="center"> 
 </h4>
 
