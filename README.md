@@ -55,9 +55,10 @@
 ## DEPLOYMENT SECTION 
 
 ##🧣 Maria Deployment   
-✨ Follow this [Tutorial](https://youtu.be/KVrt3iKO4L0) for Maria's error free safe hosting.
+✨ Follow this Tutorial
+<a href="https://youtu.be/OvNnpK1Gx6Y"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+    </a>
     
-
 <h2 align="left">  <a href="https://maria-pair-code.onrender.com"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
 </a>
 </h2>
