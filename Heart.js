@@ -2394,7 +2394,7 @@ case 'welcome':
 
 case 'git': case 'gitclone':
 if (!args[0]) return reply(`🧩Where is the link?\n🔮Example :\n${prefix}${command} https://github.com/AYUSH-PANDEY023/Maria-Md `)
-if (!isUrl(args[0]) && !args[0].includes('github.com')) return replygcMaria(`Link invalid!!`)
+if (!isUrl(args[0]) && !args[0].includes('github.com')) return reply(`Link invalid!!`)
 let regex1 = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i
     [ user, repo] = args[0].match(regex1) || []
     repo = repo.replace(/.git$/, '')
