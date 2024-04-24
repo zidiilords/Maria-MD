@@ -49,7 +49,14 @@
 </a>
 </h2>
 
+
+
+<br></div>
 ## DEPLOYMENT SECTION 
+
+##🧣 Maria Deployment   
+✨ Follow this [Tutorial](https://youtu.be/KVrt3iKO4L0) for Maria's error free safe hosting.
+    
 
 <h2 align="left">  <a href="https://maria-pair-code.onrender.com"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
 </a>
