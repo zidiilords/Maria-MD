@@ -2789,26 +2789,27 @@ case 'guesspokemon': {
 break;
 
 case 'element':
-    if (!args[0]) return reply(`Please use this command like this: ${prefix}element br`);
-const query = args.join(" ");
-const search = await pTable(query);
-if (search === undefined) return reply('❗️Please provide me a valid element by visiting here!\n\nhttps://en.m.wikipedia.org/wiki/Periodic_table');
+    if(!args[0]) return reply(`Please use this command like this: ${prefix}element br`);
+    const queryy = args.join(" ");
+   const search = await pTable(queryy);
+   if (search === undefined) return reply(`❗️Please provide me a valid element by visiting here !\n\nhttps://en.m.wikipedia.org/wiki/Periodic_table`);
 
-const response = await npt.getByNumber(search.number);
-let caption = "              *『 Element Details 』*\n\n";
-caption += `🔴 *Element:* ${response.name}\n`;
-caption += `⬜ *Atomic Number:* ${response.number}\n`;
-caption += `🟡 *Atomic Mass:* ${response.atomic_mass}\n`;
-caption += `⬛ *Symbol:* ${response.symbol}\n`;
-caption += `❓ *Appearance:* ${response.appearance}\n`;
-caption += `🟢 *Phase:* ${response.phase}\n`;
-caption += `♨️ *Boiling Point:* ${response.boil} K\n️`;
-caption += `💧 *Melting Point:* ${response.melt} K\n`;
-caption += `🟣 *Density:* ${response.density} g/mL\n`;
-caption += `⚫ *Shells:* ${response.shells.join(", ")}\n`;
-caption += `🌐 *URL:* ${response.source}\n\n`;
-caption += `💬 *Summary:* ${response.summary}\n`;
-await Maria.sendMessage(from, { image: { url: 'https://graph.org/file/c8ad7dc322c0b9b7eca8f.jpg' }, caption: caption }, { quoted: m });
+   const responsee = await npt.getByNumber(search.number);
+   let caption  = "";
+    caption = "              *『  Element Details  』*\n\n";
+    caption += `🔴 *Elelment:* ${responsee.name}\n`;
+caption += `⬜ *Atomic Number:* ${responsee.number}\n`;
+caption += `🟡 *Atomic Mass:* ${responsee.atomic_mass}\n`;
+caption += `⬛ *Symbol:* ${responsee.symbol}\n`;
+caption += `❓ *Appearance:* ${responsee.apearance}\n`;
+caption += `🟢 *Phase:* ${responsee.phase}\n`;
+caption += `♨️ *Boiling Point:* ${responsee.boil} K\n️`;
+caption += `💧 *Melting Point:* ${responsee.melt} K\n`;
+caption += `🟣 *Density:* ${responsee.density} g/mL\n`;
+caption += `⚫ *Shells:* ${responsee.shells.join(", ")}\n`;
+caption += `🌐 *URL:* ${responsee.source}\n\n`;
+caption += `💬 *Summary:* ${responsee.summary}\n`;
+    await Maria.sendMessage(from,  {image: {url: 'https://graph.org/file/c8ad7dc322c0b9b7eca8f.jpg'},caption: caption}, {quoted: m });
 break;
 
 
