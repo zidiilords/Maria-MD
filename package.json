@@ -20,7 +20,7 @@
         "@hapi/boom": "^10.0.1",
         "@queenanya/baileys": "latest",
         "@queenanya/invite": "latest",
-        "@whiskeysockets/baileys": "github:whiskeysockets/baileys",
+        "@whiskeysockets/baileys": "latest",
         "api-dylux": "^1.7.2",
         "awesome-phonenumber": "^5.9.0",
         "axios": "^1.4.0",
