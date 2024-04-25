@@ -85,11 +85,8 @@
 
 </details>
 
-## DON'T FORGET TO GIVE A STAR 🌟 AND FORK
 
-<p align="center">Please consider giving this project a star if you find it useful. Don't forget to fork it to customize it according to your needs.</p>
-
- <h2 align="center"> 🔖Thanks to
+ <h2 align="left"> 🔖Thanks to
 </h2>
 
 1. **Teamolduser**
@@ -102,3 +99,7 @@
    - GitHub: [@DGXeon](https://github.com/DGXeon)
 
 Feel free to contribute and make this project even more awesome! 🌟
+
+## DON'T FORGET TO GIVE A STAR 🌟 AND FORK
+
+<p align="center">Please consider giving this project a star if you find it useful. Don't forget to fork it to customize it according to your needs.</p>
