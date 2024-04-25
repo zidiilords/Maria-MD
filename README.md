@@ -44,7 +44,10 @@
 
 
 ### ✧✧SETUP Maria-Md 
+<br>
 
+<details>
+<summary>Read more</summary>
 1. Fork The Repo
     <br>
 <a href="https://github.com/AYUSH-PANDEY023/Maria-MD/fork"><img title="Maria-MD" src="https://img.shields.io/badge/FORK MARIA-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
@@ -53,7 +56,6 @@
 <p align="left">  <a href="https://maria-pair-code.onrender.com"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
 </a>
 </p>
-
 
 <br></div>
 ## ✧✧Maria Deployment  
