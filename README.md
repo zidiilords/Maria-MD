@@ -92,9 +92,16 @@
 
 
 
-<h1 align="center">  🔮 Thanks To 🔮
-</h1>
+ <h2 align="center"> 🔖Thanks to
+</h2>
 
-* [`🧧Xeon`](https://github.com/dgxeon)
+1. **Teamolduser**
+   - GitHub: [@Teamolduser](https://github.com/Teamolduser)
 
-* [`🧧Pikachu`](https://github.com/PikaBotz)
+2. **PikaBotz**
+   - GitHub: [@PikaBotz](https://github.com/PikaBotz)
+
+3. **DGXeon**
+   - GitHub: [@DGXeon](https://github.com/DGXeon)
+
+Feel free to contribute and make this project even more awesome! 🌟
