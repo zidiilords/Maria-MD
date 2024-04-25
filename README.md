@@ -74,11 +74,7 @@
 
 <details>
 <summary>Read more</summary>
-
-
-</details>
-
-<br>
+  
 ## Requirements
 
 * [Node.js](https://nodejs.org/en/)
@@ -88,6 +84,11 @@
 * Any text editor
 
 <br>
+
+</details>
+
+<br>
+
 
 
 <h1 align="center">  🔮 Thanks To 🔮
