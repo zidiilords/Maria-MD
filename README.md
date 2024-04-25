@@ -73,8 +73,6 @@
 
 # ✧✧Install Manually 👇
 
-<br>
-
 <details>
 <summary>Read more</summary>
   
@@ -86,11 +84,7 @@
 * [Libwebp](https://developers.google.com/speed/webp/download)
 * Any text editor
 
-<br>
-
 </details>
-
-<br>
 
 ## DON'T FORGET TO GIVE A STAR 🌟 AND FORK
 
