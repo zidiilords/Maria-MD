@@ -1,17 +1,18 @@
-<div align="center">
-  <a href="https://ibb.co/pQNpmwN">
-    <img src="https://i.ibb.co/xYwQ4Lw/cheemspic.jpg" alt="Maria-Md" border="0">
-  </a>
-  <h1>⭐ Maria-Md ⭐</h1>
+<a href="https://ibb.co/pQNpmwN"><img src="https://i.ibb.co/xYwQ4Lw/cheemspic.jpg" alt="Maria-Md" border="0"></a>
+<h1 align="center">⭐Maria-Md⭐<br></h1>
 
-  <p align="center">Konichiwa Senpai, I am "Maria md," a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device (MD) Support.</p>
+<p align="center"> 
+  Konochiwa Senpai, I am "Maria md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+</p>
 
-  ## DON'T FORGET TO GIVE A STAR 🌟 AND FORK
+## DONT FORGET TO GIVE A STAR🌟 AND FORK
+</br>
 
-  ### ✧✧ This bot is still under development so if you want to recode/modify it, please check this main repo once in 3 days because I am continuously debugging it and making major changes in it.
+### ✧✧ This bot is still under development so if you want to recode/modify it, pls check this main repo once in 3 days because i am continuously debugging it and making major changes in it.
+</br>
+## ✧✧✧ What' new v2.0?
 
-  ## ✧✧✧ What's new v2.0?
-  ```
+```
 1. Education menu added✅️
 2.  Coding menu added ✅️
 3.  Wallpaper menu added✅️
@@ -20,80 +21,87 @@
 
 -regards Ayush
 ```
+</br>
+
 ## ✧✧ Connect With Me
 
 <p align="center">
-  <a href="https://api.whatsapp.com/send?phone=919931122319&text=𝘩𝘦𝘭𝘭𝘰+𝘮𝘢𝘴𝘵𝘦𝘳">
-    <img src="https://img.shields.io/badge/Contact_Ayush-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+
+<a href="https://api.whatsapp.com/send?phone=919931122319&text=𝘩𝘦𝘭𝘭𝘰+𝘮𝘢𝘴𝘵𝘦𝘳"><img src="https://img.shields.io/badge/Contact Ayush-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/ayushpandeyy_023">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+  <a href="https://www.instagram.com/ayushpandeyy_023"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
-## ✧✧ Bot Support Groups
-
+## ✧✧Bot Support Groups```
 <p align="center">
-  <a href="https://chat.whatsapp.com/FoS7pSPtfMqBuoireK4aAJ">
-    <img src="https://img.shields.io/badge/Join_support_group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+
+<a href="https://chat.whatsapp.com/FoS7pSPtfMqBuoireK4aAJ"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
 </p>
 
-### ✧✧ SETUP Maria-Md
+
+
+### ✧✧SETUP Maria-Md 
 
 1. Fork The Repo
-   <br>
-   <a href="https://github.com/AYUSH-PANDEY023/Maria-MD/fork">
-     <img title="Maria-MD" src="https://img.shields.io/badge/FORK_MARIA-MD-h?color=black&style=for-the-badge&logo=stackshare">
-   </a>
+    <br>
+<a href="https://github.com/AYUSH-PANDEY023/Maria-MD/fork"><img title="Maria-MD" src="https://img.shields.io/badge/FORK MARIA-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-2. Pair with WhatsApp
-   <p align="left">
-     <a href="https://maria-pair-code.onrender.com">
-       <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
-     </a>
-   </p>
-
-## ✧✧ Maria Deployment
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://maria-pair-riders004.koyeb.app/deploy.html)
-
-### ✧✧ Follow this Tutorial for Maria's error-free and safe Deployment
-
-<p align="left">
-  <a href="https://youtu.be/KNu-gr2h7bo">
-    <img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/ww4z2m3uORU" /><br>
-  </a>
+2. Pair with WhatsApp 
+<p align="left">  <a href="https://maria-pair-code.onrender.com"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+</a>
 </p>
 
-# ✧✧ Install Manually 👇
+
+<br></div>
+## ✧✧Maria Deployment  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://maria-pair-riders004.koyeb.app/deploy.html)
+
+
+### ✧✧ Follow this Tutorial for Maria's  error free and safe Deployment 
+<p align="left" >
+  <a href="https://youtu.be/KNu-gr2h7bo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/ww4z2m3uORU" /><br>
+  
+      
+</p>   
+    
+
+
+# ✧✧Install Manually 👇
+
+<br>
 
 <details>
-  <summary>Read more</summary>
+<summary>Read more</summary>
+  
+## Requirements
 
-  ## Requirements
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+* [Libwebp](https://developers.google.com/speed/webp/download)
+* Any text editor
 
-  * [Node.js](https://nodejs.org/en/)
-  * [Git](https://git-scm.com/downloads)
-  * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-  * [Libwebp](https://developers.google.com/speed/webp/download)
-  * Any text editor
+<br>
+
 </details>
 
-</div>
+<br>
 
-<h2 align="center">🔖 Thanks to</h2>
+
+
+ <h2 align="center"> 🔖Thanks to
+</h2>
 
 1. **Teamolduser**
- - GitHub: [@Teamolduser](https://github.com/Teamolduser)
+   - GitHub: [@Teamolduser](https://github.com/Teamolduser)
 
 2. **PikaBotz**
- - GitHub: [@PikaBotz](https://github.com/PikaBotz)
+   - GitHub: [@PikaBotz](https://github.com/PikaBotz)
 
 3. **DGXeon**
- - GitHub: [@DGXeon](https://github.com/DGXeon)
+   - GitHub: [@DGXeon](https://github.com/DGXeon)
 
 Feel free to contribute and make this project even more awesome! 🌟
