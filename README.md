@@ -89,9 +89,7 @@
  <h2 align="left"> 💖 A special Thanks to
 </h2>
 
-<details>
-<summary>Read more</summary>
-  
+
 ## Requirements
 
 * [Node.js](https://nodejs.org/en/)
@@ -113,7 +111,3 @@
 
 Feel free to contribute and make this project even more awesome! 🌟
 
-</details>
-## DON'T FORGET TO GIVE A STAR 🌟 AND FORK
-
-<p align="center">Please consider giving this project a star if you find it useful. Don't forget to fork it to customize it according to your needs.</p>
