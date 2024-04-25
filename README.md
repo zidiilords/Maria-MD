@@ -4,6 +4,8 @@
 <p align="center"> 
   Konochiwa Senpai, I am "Maria md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 </p>
+
+## DONT FORGET TO GIVE A STAR🌟 AND FORK
 </br>
 
 ### ✧✧ This bot is still under development so if you want to recode/modify it, pls check this main repo once in 3 days because i am continuously debugging it and making major changes in it.
@@ -65,7 +67,6 @@
       
 </p>   
     
-## DONT FORGET TO GIVE A STAR🌟 AND FORK
 
 
 # Install Manually 👇
