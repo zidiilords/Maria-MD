@@ -34,7 +34,7 @@
 <p align="left">
   <a href="https://www.instagram.com/ayushpandeyy_023"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
-## ✧✧Bot Support Groups```
+## ✧✧Bot Support Groups
 <p align="center">
 
 <a href="https://chat.whatsapp.com/FoS7pSPtfMqBuoireK4aAJ"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -86,8 +86,21 @@
 </details>
 
 
- <h2 align="left"> 🔖Thanks to
+ <h2 align="left"> 💖 A special Thanks to
 </h2>
+
+<details>
+<summary>Read more</summary>
+  
+## Requirements
+
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+* [Libwebp](https://developers.google.com/speed/webp/download)
+* Any text editor
+
+<br>
 
 1. **Teamolduser**
    - GitHub: [@Teamolduser](https://github.com/Teamolduser)
@@ -100,6 +113,7 @@
 
 Feel free to contribute and make this project even more awesome! 🌟
 
+</details>
 ## DON'T FORGET TO GIVE A STAR 🌟 AND FORK
 
 <p align="center">Please consider giving this project a star if you find it useful. Don't forget to fork it to customize it according to your needs.</p>
