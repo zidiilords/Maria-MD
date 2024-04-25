@@ -44,21 +44,21 @@
 
 
 ### ✧✧SETUP Maria-Md 
-<br>
-
 <details>
 <summary>Read more</summary>
   
 1. Fork The Repo
     <br>
-<a href="https://github.com/AYUSH-PANDEY023/Maria-MD/fork"><img title="Maria-MD" src="https://img.shields.io/badge/FORK MARIA-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+    <a href="https://github.com/AYUSH-PANDEY023/Maria-MD/fork"><img title="Maria-MD" src="https://img.shields.io/badge/FORK MARIA-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Pair with WhatsApp 
-<p align="left">  <a href="https://maria-pair-code.onrender.com"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
-</a>
-</p>
-<br>
-<br></div>
+   <p align="left">
+       <a href="https://maria-pair-code.onrender.com">
+         <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+       </a>
+   </p>
+</details>
+
 ## ✧✧Maria Deployment  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://maria-pair-riders004.koyeb.app/deploy.html)
 
