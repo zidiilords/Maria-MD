@@ -41,7 +41,7 @@
 
 
 
-### SETUP
+### SETUP Maria-Md 
 
 1. Fork The Repo
     <br>
@@ -55,21 +55,24 @@
 
 <br></div>
 ## Maria Deployment  
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://maria-pair-riders004.koyeb.app/deploy.html)
 
 
 ### ✧✧ Follow this Tutorial for Maria's  error free and safe Deployment 
-<p align="center" >
+<p align="left" >
   <a href="https://youtu.be/KNu-gr2h7bo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/ww4z2m3uORU" /><br>
   
       
 </p>   
     
-
+## DONT FORGET TO GIVE A STAR🌟 AND FORK
 
 # Install Manually 👇
 
-## `Requirements`
+
+<br>
+
+-## `Requirements`
 
 * [Node.js](https://nodejs.org/en/)
 
@@ -80,6 +83,9 @@
 * [Libwebp](https://developers.google.com/speed/webp/download)
 
 * Any text editor
+
+<br>
+
 
 
 <h1 align="center">  🔮 Thanks To 🔮
