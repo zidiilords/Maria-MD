@@ -44,8 +44,7 @@
 
 
 ### ✧✧SETUP Maria-Md 
-<details>
-<summary>Read more</summary>
+
   
 1. Fork The Repo
     <br>
@@ -57,7 +56,7 @@
          <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
        </a>
    </p>
-</details>
+
 
 ## ✧✧Maria Deployment  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://maria-pair-riders004.koyeb.app/deploy.html)
