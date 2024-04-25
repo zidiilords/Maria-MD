@@ -23,7 +23,7 @@
 ```
 </br>
 
-## ```Connect With Me```
+## ✧✧ Connect With Me
 
 <p align="center">
 
@@ -34,7 +34,7 @@
 <p align="left">
   <a href="https://www.instagram.com/ayushpandeyy_023"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
-## ```Bot Support Groups```
+## ✧✧Bot Support Groups```
 <p align="center">
 
 <a href="https://chat.whatsapp.com/FoS7pSPtfMqBuoireK4aAJ"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -43,7 +43,7 @@
 
 
 
-### SETUP Maria-Md 
+### ✧✧SETUP Maria-Md 
 
 1. Fork The Repo
     <br>
@@ -56,7 +56,7 @@
 
 
 <br></div>
-## Maria Deployment  
+## ✧✧Maria Deployment  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://maria-pair-riders004.koyeb.app/deploy.html)
 
 
@@ -69,7 +69,7 @@
     
 
 
-# Install Manually 👇
+# ✧✧Install Manually 👇
 
 <br>
 
