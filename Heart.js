@@ -178,21 +178,7 @@ isForwarded: true,
 { quoted: m})
 }
 
-async function loading () {
-var Ayushlod = [
-"《 ▒▒▒▒▒▒▒▒▒▒▒》10%",
-"《 ████▒▒▒▒▒▒▒▒》30%",
-"《 ███████▒▒▒▒▒》50%",
-"《 ██████████▒▒》80%",
-"《 ████████████》100%",
-"Done ✅️"
-]
-let { key } = await Maria.sendMessage(from, {text: 'ʟᴏᴀᴅɪɴɢ...'})
-
-for (let i = 0; i < Ayushlod.length; i++) {
-await Maria.sendMessage(from, {text: Ayushlod[i], edit: key });
-}
-}
+//////////
 
 async function obfus(query) {
     return new Promise((resolve, reject) => {
@@ -2473,8 +2459,7 @@ case 'hidetag': {
 
 			    
          case 'pinterest':
-      case 'pin':
-      case image: {
+      case 'img': {
       if (!args.join(" ")) return reply(`🧩${pushname}Please provide a search term!`);
         reply(mess.waiting)
         let { pinterest } = require('./Gallery/lib/scraper');
