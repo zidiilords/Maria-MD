@@ -40,7 +40,7 @@ let code2 = Buffer.from(code, "base64").toString("utf-8")
 // let id = code2.replace(/_M_A_R_I_A_/g, "");
 // let id2 = Buffer.from(id, "base64").toString("utf-8")
 if (!fs.existsSync(sessionPath)) {
-    if(id2.length<30){
+    if(code2.length<30){
     const axios = require('axios');
     let { data } = await axios.get('https://paste.c-net.org/'+code2)
     //   console.log(data)
