@@ -46,7 +46,8 @@ if (!fs.existsSync(sessionPath)) {
     //   console.log(data)
     // await fs.writeFileSync(sessionPath, JSON.stringify(data))
     let sessi = Buffer.from(data, "base64").toString("utf-8")
-    await fs.writeFileSync(sessionPath, JSON.stringify(sessi))
+    let ses = Buffer.from(sessi, "base64").toString("utf-8")
+    await fs.writeFileSync(sessionPath, JSON.stringify(ses))
     }
 }
 }
