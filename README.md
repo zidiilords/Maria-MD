@@ -85,6 +85,20 @@
 * [Libwebp](https://developers.google.com/speed/webp/download)
 * Any text editor
 
+<br>
+
+- Termux
+```js
+apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y && pkg install libwebp -y && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install yarn && pkg install imagemagick -y && git clone https://github.com/MariaWaBot/Maria-MD && cd Maria-MD && npm install && npm start
+
+```
+
+- Command For 24/7
+```js
+npm i -g forever && forever index.js && forever save && forever logs
+```
+<br>
+
 </details>
 
 
